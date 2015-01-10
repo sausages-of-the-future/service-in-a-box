@@ -46,3 +46,4 @@ docs/_build
 output/
 
 bower_components
+vendor

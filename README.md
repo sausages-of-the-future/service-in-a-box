@@ -3,6 +3,7 @@ service-in-a-box
 
 ###Note still needs a few tweaks to truly run out of the box.
 ######TODO - add some post hooks to try and semi-automate the oauth config?
+######TODO - more post hooks for bower install?
 
 A template for flask services using [cookiecutter](https://github.com/audreyr/cookiecutter). This cookie cutter template has been heavily influenced by [cookiecutter-flask](https://github.com/sloria/cookiecutter-flask)
 
@@ -23,6 +24,13 @@ You will be prompted to answer some basic questions about your service and appli
 
 
 ####What happens next
+
+Use bower to install front end static assets
+```
+bower install
+```
+This will 3rd party static dependencies to static/vendor
+
 
 Create a virtualenv for your new app
 ```
