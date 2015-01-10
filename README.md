@@ -16,7 +16,7 @@ pip install cookiecutter
 then run:
 
 ```
-cookiecutter https://github.com/sausages-of-the-future/service-in-a-box.git
+cookiecutter https://github.com/ashimali/service-in-a-box.git
 ```
 
 You will be prompted to answer some basic questions about your service and application. Also what registry you want to use and the permissions you require on that registry.
