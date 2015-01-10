@@ -25,7 +25,7 @@ You will be prompted to answer some basic questions about your service and appli
 
 ####What happens next
 
-cd into the newly create director for the application directory.
+cd into the newly create directory for the application.
 
 Use bower to install front end static assets
 ```
