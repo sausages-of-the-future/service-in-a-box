@@ -1,0 +1,3 @@
+{
+  "directory": "{{cookiecutter.application_name}}/static/vendor"
+}

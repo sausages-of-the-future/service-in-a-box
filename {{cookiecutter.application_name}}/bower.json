@@ -1,0 +1,18 @@
+{
+  "name": "{{cookiecutter.application_name}}",
+  "version": "0.1.0",
+  "homepage": "https://github.com/{{cookiecutter.github_name}}/{{cookiecutter.application_name}}",
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "tests",
+    "{{cookiecutter.application_name}}/static/vendor"
+  ],
+  "dependencies": {
+    "foundation": "zurb/bower-foundation#~5.2.2",
+    "roboto-slab-fontface": "*"
+  }
+}

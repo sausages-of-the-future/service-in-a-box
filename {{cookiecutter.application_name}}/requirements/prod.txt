@@ -1,0 +1,11 @@
+Flask==0.10.1
+MarkupSafe==0.23
+Werkzeug==0.9.6
+Jinja2==2.7.3
+itsdangerous==0.24
+Flask-WTF==0.10.3
+WTForms==2.0.1
+gunicorn>=19.1.1
+Flask-OAuthlib==0.8.0
+oauthlib==0.7.2
+# and whatever else you want
