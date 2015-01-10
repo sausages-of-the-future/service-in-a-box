@@ -3,6 +3,6 @@
     "service_description": "A short description for this service",
 	"application_name": "An application name for this service e.g. alchohol_licensing or visa_applications (note, no spaces)",
     "github_name": "Github user or organisation name",
-    "python_version": "Python version enter 2 or 3"
+    "python_version": "Python version enter 2 or 3",
     "oauth_scopes": "Oauth permissions required e.g. person:view licence:view licence:add"
 }
