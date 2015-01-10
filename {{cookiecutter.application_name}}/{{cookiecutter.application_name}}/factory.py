@@ -2,7 +2,6 @@
 '''The app module, containing the app factory function.'''
 from flask import Flask, render_template
 
-from {{cookiecutter.application_name}}.settings import Config
 from {{cookiecutter.application_name}}.extensions import (
     oauth
     #add others as needed
