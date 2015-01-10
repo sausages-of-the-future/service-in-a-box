@@ -25,19 +25,20 @@ You will be prompted to answer some basic questions about your service and appli
 
 ####What happens next
 
+cd into the newly create director for the application directory.
+
 Use bower to install front end static assets
 ```
 bower install
 ```
 This will 3rd party static dependencies to static/vendor
 
-
 Create a virtualenv for your new app
 ```
 mkvirtualenv --python=/path/to/required/python/version [appname]
 ```
 
-cd into application directory and run
+Install python requirements.
 ```
 pip install -r requirements/dev.txt
 ```
